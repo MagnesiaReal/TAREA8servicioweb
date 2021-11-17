@@ -1,0 +1,19 @@
+.header {
+  background-color: #8f9199;
+  border-bottom-left-radius: 10px;
+  border-bottom-right-radius: 10px;
+  margin-bottom: 5px;
+}
+
+
+.busqueda {
+  background-color: #3a3c44;
+  border-radius: 10px;
+  color: white;
+}
+
+.item{
+  background-color: #8f9199;
+  border-radius: 10px;
+}
+
